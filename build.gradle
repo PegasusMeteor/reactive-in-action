@@ -18,6 +18,7 @@ dependencies {
 	implementation platform('io.projectreactor:reactor-bom:Bismuth-RELEASE')
 	implementation 'io.projectreactor:reactor-core'
 	implementation 'org.springframework.boot:spring-boot-starter'
+	implementation 'org.springframework.boot:spring-boot-starter-web'
 	testImplementation('org.springframework.boot:spring-boot-starter-test') {
 		exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
 	}
