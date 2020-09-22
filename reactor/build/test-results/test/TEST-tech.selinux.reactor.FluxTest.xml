@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tech.selinux.reactor.FluxTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-22T07:14:13" hostname="MacBook-Pro" time="0.259">
+  <properties/>
+  <testcase name="fluxTest()" classname="tech.selinux.reactor.FluxTest" time="0.259"/>
+  <system-out><![CDATA[15:14:13.485 [Test worker] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+foo
+bar
+foobar
+foo
+bar
+foobar
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

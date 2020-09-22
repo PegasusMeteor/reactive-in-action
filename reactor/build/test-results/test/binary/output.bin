@@ -1,0 +1,7 @@
+d15:14:13.485 [Test worker] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+foo
+bar
+foobar
+foo
+bar
+foobar

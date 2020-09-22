@@ -1,1 +1,2 @@
-rootProject.name = 'reactor-in-action'
+rootProject.name = 'reactive-in-action'
+include 'webflux','reactor'
